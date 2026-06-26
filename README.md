@@ -20,6 +20,11 @@
 4. Отредактируйте переменные в начале скрипта:
      ```bash
    START_HOUR = 22
-   START_MINUTE = 30   # 22:30
+   START_MINUTE = 30   
    END_HOUR = 6
-   END_MINUTE = 15     # 06:15
+   END_MINUTE = 15     
+5.Запуск скрипта 
+  ```bash
+python screen_dimmer.py
+
+
